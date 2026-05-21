@@ -25,7 +25,7 @@
 ## 📌 Projects
 
 * Food Ordering System
-* Smart Campus App
+* Crime Record Management System
 * Real-Time Chat Application
 * Plant Disease Detection System
 
