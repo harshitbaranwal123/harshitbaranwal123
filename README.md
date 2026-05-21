@@ -7,7 +7,12 @@
 
 ---
 
-## 🚀 Tech Stack
+## ## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,c,cpp,git,github,firebase,vscode" />
+</p>
+
 
 * HTML5, CSS3, JavaScript
 * React.js, Node.js, Express.js
