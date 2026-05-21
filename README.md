@@ -37,4 +37,4 @@
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com
-* Email: [mrdesigner7520@gmail.com](mailto:mrdesigner7520@gmail.com)
+* Email: harshitbaranwal116@gmail.com 
