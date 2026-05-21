@@ -39,6 +39,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitbaranwal123\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbaranwal123\&layout=compact\&theme=tokyonight)
+
+
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com
