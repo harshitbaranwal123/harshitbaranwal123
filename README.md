@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Harshit Kumar Baranwal
 
-<!--
-**harshitbaranwal123/harshitbaranwal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer & Full Stack Developer
+📊 Data Analytics Enthusiast
+🎨 Creative Graphic Designer
+🎓 MCA Graduate from Arka Jain University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* HTML5, CSS3, JavaScript
+* React.js, Node.js, Express.js
+* MongoDB, MySQL
+* Power BI, IBM Cognos, MS Excel
+* C, C++, Java
+
+---
+
+## 📌 Projects
+
+* Food Ordering System
+* Smart Campus App
+* Real-Time Chat Application
+* Plant Disease Detection System
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React.js
+* Full Stack Development
+* AI & Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com
+* Email: [mrdesigner7520@gmail.com](mailto:mrdesigner7520@gmail.com)
